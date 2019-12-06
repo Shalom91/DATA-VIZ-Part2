@@ -7,4 +7,5 @@ Before Running the Map Please take note of the following:
 
 # import libraries
 import plotly.graph_objects as go
+
 import pandas as pd
