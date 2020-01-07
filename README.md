@@ -6,3 +6,5 @@ Before Running the Map Please take note of the following:
 matplotlib
 
 pandas
+
+seaborn
