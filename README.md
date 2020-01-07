@@ -4,4 +4,5 @@ Before Running the Map Please take note of the following:
 
 # import libraries
 matplotlib
-import pandas
+
+pandas
