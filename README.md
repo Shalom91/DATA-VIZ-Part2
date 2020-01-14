@@ -8,3 +8,5 @@ matplotlib
 pandas
 
 seaborn
+
+plotly
