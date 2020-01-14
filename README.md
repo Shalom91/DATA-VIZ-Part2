@@ -9,4 +9,3 @@ pandas
 
 seaborn
 
-plotly
